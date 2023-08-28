@@ -1,0 +1,16 @@
+.table {
+  padding: 1rem;
+  margin: 2rem;
+}
+.scrollit {
+  margin-top: 1rem;
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 800px;
+  width: 1050px;
+}
+.selectform {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
