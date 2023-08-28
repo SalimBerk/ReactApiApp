@@ -1,5 +1,7 @@
 # ReactApiApp
 
+> You can see all of datas with scroll property
+> 
 ![Ekran görüntüsü 2023-08-26 200510](https://github.com/SalimBerk/ReactApiApp/assets/77536512/32f555ef-3be9-496f-86ab-de331caf27e7)
 
 ![Ekran görüntüsü 2023-08-26 200624](https://github.com/SalimBerk/ReactApiApp/assets/77536512/b02b6aa8-9e47-475d-a127-0940b8879eb9)
